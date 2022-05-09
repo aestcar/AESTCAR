@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lero06
 - 👀 I’m interested in Apps
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on any big company
+- 💞️ I’m looking to collaborate in any big company
 - 📫 How to reach me -> aestevec01@gmail.com
 
 <!---
