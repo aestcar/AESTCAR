@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lero06
-- 👀 I’m interested in Apps
+- 👀 I’m interested in Web/Mobile developing
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me -> aestevec01@gmail.com
 
