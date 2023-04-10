@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aestcar
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Redux.js
 - 📫 How to reach me -> aestevec01@gmail.com 
