@@ -18,3 +18,22 @@ const albert = {
 ```
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFsNTBjbG16Z3VvNXdhNG11ejM4dm5hc2NnN2x5MmFsbWMya3U2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J1Qp3RPpEiSZo1ItZj/giphy.gif" width="60"> <em><b>Take a look at my projects</b>, maybe one of them might interest you!</em>
+
+ <ul>
+  <li>2023
+    <ul>
+      <li> 🌟  <a href="https://github.com/aestcar/TFGIon"> TfgIon Front 📚 </a> </li>
+      <li> 🌟 <a href="https://github.com/aestcar/TFGIonBack"> TfgIon Back 📚 </a> </li>
+    </ul>
+  </li>
+   <li>2022
+    <ul>
+      <li> <a href="https://github.com/aestcar/Conecta4"> Haskell exercises ✏️ </a> </li>
+    <ul>
+  </li>
+  <li>2021
+    <ul>
+      <li> <a href="https://github.com/aestcar/Conecta4"> Connect 4 🎮 </a> </li>
+    <ul>
+  </li>
+</ul> 
