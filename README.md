@@ -22,18 +22,18 @@ const albert = {
  <ul>
   <li>2023
     <ul>
-      <li> 🌟  <a href="https://github.com/aestcar/TFGIon"> TfgIon Front 📚 </a> </li>
-      <li> 🌟 <a href="https://github.com/aestcar/TFGIonBack"> TfgIon Back 📚 </a> </li>
+      <li> 🌟  <a href="https://github.com/aestcar/TFGIon"> TfgIon Front </a> 📚 </li>
+      <li> 🌟 <a href="https://github.com/aestcar/TFGIonBack"> TfgIon Back </a> 📚 </li>
     </ul>
   </li>
-   <li>2022
+  <li>2022
     <ul>
-      <li> <a href="https://github.com/aestcar/Conecta4"> Haskell exercises ✏️ </a> </li>
-    <ul>
+      <li> <a href="https://github.com/aestcar/Conecta4"> Haskell exercises </a> ✏️ </li>
+    </ul>
   </li>
   <li>2021
     <ul>
-      <li> <a href="https://github.com/aestcar/Conecta4"> Connect 4 🎮 </a> </li>
-    <ul>
+      <li> <a href="https://github.com/aestcar/Conecta4"> Connect 4 </a> 🎮 </li>
+    </ul>
   </li>
-</ul> 
+</ul>
