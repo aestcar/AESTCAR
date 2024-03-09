@@ -24,6 +24,7 @@ const albert = {
     <ul>
       <li> 🌟  <a href="https://github.com/aestcar/TFGIon"> TfgIon Front </a> 📚 </li>
       <li> 🌟 <a href="https://github.com/aestcar/TFGIonBack"> TfgIon Back </a> 📚 </li>
+      <li> <a href="https://github.com/aestcar/Music-bot"> Music bot </a> 🎵 </li> 
     </ul>
   </li>
   <li>2022
