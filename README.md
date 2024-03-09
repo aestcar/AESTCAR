@@ -30,6 +30,7 @@ const albert = {
   </li>
   <li>2022
     <ul>
+      <li> <a href="https://github.com/aestcar/ChatIonic"> Ionic Chat </a> 📱 </li>
       <li> <a href="https://github.com/aestcar/Hackatlon2022"> Hackatlon 2022 </a> 🚲 </li>
       <li> <a href="https://github.com/aestcar/Conecta4"> Haskell exercises </a> ✏️ </li>
     </ul>
