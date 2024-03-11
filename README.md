@@ -32,6 +32,8 @@ const albert = {
     <ul>
       <li> <a href="https://github.com/aestcar/ChatIonic"> Ionic Chat </a> 📱 </li>
       <li> <a href="https://github.com/aestcar/Hackatlon2022"> Hackatlon 2022 </a> 🚲 </li>
+      <li> <a href="https://github.com/botikacode/chippy-frontend"> Chippy Front </a> 🐶 </li>
+      <li> <a href="https://github.com/botikacode/chippy-backend"> Chippy Back </a> 🐶 </li>
       <li> <a href="https://github.com/aestcar/JS-Projects"> JS Projects </a> 🔧 </li> 
       <li> <a href="https://github.com/aestcar/Haskell-exercises"> Haskell exercises </a> ✏️ </li>
     </ul>
